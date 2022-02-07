@@ -1,0 +1,74 @@
+circuitId,circuitRef,name,location,country
+1,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+2,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+3,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+4,catalunya,Circuit de Barcelona-Catalunya,MontmelÌ_,Spain
+5,istanbul,Istanbul Park,Istanbul,Turkey
+6,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+9,silverstone,Silverstone Circuit,Silverstone,UK
+10,hockenheimring,Hockenheimring,Hockenheim,Germany
+11,hungaroring,Hungaroring,Budapest,Hungary
+12,valencia,Valencia Street Circuit,Valencia,Spain
+13,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+14,monza,Autodromo Nazionale di Monza,Monza,Italy
+15,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+16,fuji,Fuji Speedway,Oyama,Japan
+17,shanghai,Shanghai International Circuit,Shanghai,China
+18,interlagos,AutÌ_dromo JosÌ© Carlos Pace,SÌ£o Paulo,Brazil
+19,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+20,nurburgring,NÌ_rburgring,NÌ_rburg,Germany
+21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+22,suzuka,Suzuka Circuit,Suzuka,Japan
+23,osterreichring,A1-Ring,Spielburg,Austria
+24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+25,galvez,AutÌ_dromo Juan y Oscar GÌÁlvez,Buenos Aires,Argentina
+26,jerez,Circuito de Jerez,Jerez de la Frontera,Spain
+27,estoril,AutÌ_dromo do Estoril,Estoril,Portugal
+28,okayama,Okayama International Circuit,Okayama,Japan
+29,adelaide,Adelaide Street Circuit,Adelaide,Australia
+30,kyalami,Kyalami,Midrand,South Africa
+31,donington,Donington Park,Castle Donington,UK
+32,rodriguez,AutÌ_dromo Hermanos RodrÌ_guez,Mexico City,Mexico
+33,phoenix,Phoenix street circuit,Phoenix,USA
+34,ricard,Circuit Paul Ricard,Le Castellet,France
+35,yeongam,Korean International Circuit,Yeongam County,Korea
+36,jacarepagua,AutÌ_dromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+37,detroit,Detroit Street Circuit,Detroit,USA
+38,brands_hatch,Brands Hatch,Kent,UK
+39,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+40,zolder,Zolder,Heusden-Zolder,Belgium
+41,dijon,Dijon-Prenois,Dijon,France
+42,dallas,Fair Park,Dallas,USA
+43,long_beach,Long Beach,California,USA
+44,las_vegas,Las Vegas Street Circuit,Nevada,USA
+45,jarama,Jarama,Madrid,Spain
+46,watkins_glen,Watkins Glen,New York State,USA
+47,anderstorp,Scandinavian Raceway,Anderstorp,Sweden
+48,mosport,Mosport International Raceway,Ontario,Canada
+49,montjuic,MontjuÌøc,Barcelona,Spain
+50,nivelles,Nivelles-Baulers,Brussels,Belgium
+51,charade,Charade Circuit,Clermont-Ferrand,France
+52,tremblant,Circuit Mont-Tremblant,Quebec,Canada
+53,essarts,Rouen-Les-Essarts,Rouen,France
+54,lemans,Le Mans,Le Mans,France
+55,reims,Reims-Gueux,Reims,France
+56,george,Prince George Circuit,Eastern Cape Province,South Africa
+57,zeltweg,Zeltweg,Styria,Austria
+58,aintree,Aintree,Liverpool,UK
+59,boavista,Circuito da Boavista,Oporto,Portugal
+60,riverside,Riverside International Raceway,California,USA
+61,avus,AVUS,Berlin,Germany
+62,monsanto,Monsanto Park Circuit,Lisbon,Portugal
+63,sebring,Sebring International Raceway,Florida,USA
+64,ain-diab,Ain Diab,Casablanca,Morocco
+65,pescara,Pescara Circuit,Pescara,Italy
+66,bremgarten,Circuit Bremgarten,Bern,Switzerland
+67,pedralbes,Circuit de Pedralbes,Barcelona,Spain
+68,buddh,Buddh International Circuit,Uttar Pradesh,India
+69,americas,Circuit of the Americas,Austin,USA
+70,red_bull_ring,Red Bull Ring,Spielburg,Austria
+71,sochi,Sochi Autodrom,Sochi,Russia
+72,port_imperial,Port Imperial Street Circuit,New Jersey,USA
+73,BAK,Baku City Circuit,Baku,Azerbaijan
